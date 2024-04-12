@@ -2,7 +2,7 @@
 <body>
     <div class="center">
         <h1>
-        <img src="https://i.ibb.co/yNJgZpW/Login.png" alt="SpectrumGuardian">
+      <img src="https://i.ibb.co/yNJgZpW/Login.png" alt="SpectrumGuardian">
       <img src="https://i.ibb.co/PgV4GwT/Encryption.png" alt="SpectrumGuardian">
       <img src="https://i.ibb.co/GHpWxwj/Spectrum.png" alt="SpectrumGuardian"></h1>
     </div>
