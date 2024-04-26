@@ -12,6 +12,7 @@
 - [Webroot Secure Anywhere Bypass](https://www.youtube.com/watch?v=cjlTo9kCuho)
 - [Kaspersky Endpoint Security Bypass](https://www.youtube.com/watch?v=Y89tSbXGqWU)
 - [Avast Antivirus Bypass](https://youtu.be/iD4TE2aOkU8)
+- [AVG Antivirus Bypass](https://youtu.be/nxlF01tXTWw)
 - [Bitdefender Total Security Bypass](https://youtu.be/BxvS6I2apnE)
 - [Comodo Antivirus Bypass](https://youtu.be/dXUh1OU8Q4g)
 - [Total 360 Security Bypass](https://vimeo.com/930833348)
