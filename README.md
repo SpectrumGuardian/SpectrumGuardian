@@ -19,6 +19,7 @@
 - [Alyac Antivirus Bypass](https://vimeo.com/930833348)
 - [MalwareBytes Anti-Malware Bypass](https://youtu.be/zYmJrcZ-Brw)
 
+- [Windows Defender bypassed FUD Crypter Exclusion WD & UAC Bypass & Hidden Startup(TaskScheduler)](https://youtu.be/lYslg6iPHMk)
 - [Windows Defender Bypass Exclusion & UAC Disable](https://youtu.be/DTTYB76lyqc) and other Antis..
 
 
