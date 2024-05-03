@@ -10,6 +10,7 @@
 - [Windows Defender Bypass](https://youtu.be/L25yqHB_tjo)
 - [McAfee Total Security Bypass](https://www.youtube.com/watch?v=XrHcoP-I33c)
 - [Webroot Secure Anywhere Bypass](https://www.youtube.com/watch?v=cjlTo9kCuho)
+- [Eset Endpoint Security Bypass](https://www.youtube.com/watch?v=mvv2apNKIGQ)
 - [Kaspersky Endpoint Security Bypass](https://www.youtube.com/watch?v=Y89tSbXGqWU)
 - [Avast Antivirus Bypass](https://youtu.be/iD4TE2aOkU8)
 - [AVG Antivirus Bypass](https://youtu.be/nxlF01tXTWw)
