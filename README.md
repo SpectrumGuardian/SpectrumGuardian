@@ -38,4 +38,4 @@ Possible to bypass everything, including the Antis used by corporations.<br>
    <p dir="auto">Offical Channel : <a href="https://t.me/SpectrumGuardianOffical" rel="nofollow">https://t.me/SpectrumGuardianOffical</a></p>
    <p dir="auto">Vimeo : <a href="https://vimeo.com/spectrumguardian" rel="nofollow">https://vimeo.com/spectrumguardian</a></p>
 
-<strong>Best Crypter.</strong>
+<strong>Bypassing is not a problem, only condition is money.</strong>
