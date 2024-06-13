@@ -19,6 +19,7 @@
 - [Ahnlab V3 Bypass](https://youtu.be/BgcxqVTQYBY)
 - [MalwareBytes Anti-Malware Bypass](https://youtu.be/zYmJrcZ-Brw)
 
+- [Payload working with PDF | Exploit](https://youtu.be/0HWVtiYGYgE)
 - [Windows Defender bypassed FUD Crypter Exclusion WD & UAC Bypass & Hidden Startup(TaskScheduler)](https://youtu.be/lYslg6iPHMk)
 - [Windows Defender Bypass Exclusion & UAC Disable](https://youtu.be/DTTYB76lyqc) and other Antis..
 
