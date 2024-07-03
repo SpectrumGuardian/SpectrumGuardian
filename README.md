@@ -1,7 +1,7 @@
 <body>
     <div class="center">
         <h1>
-      <img src="https://i.ibb.co/Wg0q2kF/Spectrum-Guardian-Software-Box.png" alt="SpectrumGuardian"></h1>
+      <img src="https://i.ibb.co/cNwXpC1/Spectrum-Guardian-Software-Box-All-Antis.png" alt="SpectrumGuardian"></h1>
     </div>
 <h1 tabindex="-1" class="heading-element" dir="auto">Spectrum Guardian is an effective solution that securely encrypts your files and bypasses antivirus programs. It is designed to keep your data safe and security at the highest level. With Spectrum Guardian, you can encrypt your files with confidence.</h1>
 
