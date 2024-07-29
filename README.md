@@ -33,7 +33,7 @@
 ./ Startup settings "Hidden startup (schtasks)" & "Normal startup"<br>
 ./ Creates Exclusion in Windows Defender like "exe, bat, cmd,  jar, py, dll"" Etc.<br>
 ./ Can add some files that work with your file. Like "PDF, EXCEL, Any Setup"<br>
-./ Maintains file properties while writing in .bat language."<br>
+./ Maintains file properties while writing in .bat language.<br>
 
 
 Possible to bypass everything, including the Antis used by corporations.<br>
