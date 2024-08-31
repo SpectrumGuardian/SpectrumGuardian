@@ -25,7 +25,7 @@
 
 
 <strong>Features:</strong><br>
-./ Private Obfuscation (Always will be FUD)
+./ Private Obfuscation (Always will be FUD)<br>
 ./ UAC Bypass<br>
 ./ Complicated diversion methods<br>
 ./ Windows Defender SmartScreen Bypass<br>
