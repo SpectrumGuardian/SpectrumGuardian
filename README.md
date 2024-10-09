@@ -1,7 +1,7 @@
 <body>
     <div class="center">
         <h1>
-      <img src="https://i.ibb.co/JQdG5Hm/Spectrum-Guardian-Software-Box-All-Antis.png" alt="SpectrumGuardian"></h1>
+      <img src="https://i.ibb.co/4d2hL9j/Spectrum-Guardian-Software-Box-All-Antis.png" alt="SpectrumGuardian"></h1>
     </div>
 <h1 tabindex="-1" class="heading-element" dir="auto">Spectrum Guardian is an effective solution that securely encrypts your files and bypasses antivirus programs. It is designed to keep your data safe and security at the highest level. With Spectrum Guardian, you can encrypt your files with confidence.</h1>
 
@@ -37,6 +37,7 @@
 ./ Maintains file properties while writing in .bat language.<br>
 <strong>Extras:</strong><br>
 ./ HTA Downloader (FUD Private Coding)<br>
+./ PDF Exploit Generator<br>
 
 Possible to bypass everything, including the Antis used by corporations.<br>
 
